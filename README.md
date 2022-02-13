@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Python
+- 📫 How to reach me:
+     - Website: https://chrisreeves.co.nz
+     - Email:   chris@reeves.net.nz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&theme=vue-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!--
 **chrisreeves-/chrisreeves-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
