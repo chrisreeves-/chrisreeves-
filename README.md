@@ -1,26 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning 🐍
+- 🌱 I’m currently learning Python 🐍
 - 📫 How to reach me:
-     - Website: https://chrisreeves.co.nz
-     - Email:   chris@reeves.net.nz
+     - 🌏 https://chrisreeves.co.nz
+     - 📬 chris@reeves.net.nz
+- 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
 - ⚡ Fun fact: Chocolate fish don't swim and drawing pins don't draw
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&theme=gotham&show_icons=true)
 
-<!--
-**chrisreeves-/chrisreeves-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
