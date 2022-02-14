@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Python 🐍
 - 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
+- 📍 Lives in Brisbane, Queensland, Australia
 - How to reach me:
      - 🌏 https://chrisreeves.co.nz
      - 📬 chris@reeves.net.nz
