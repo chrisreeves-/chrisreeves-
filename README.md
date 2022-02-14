@@ -13,6 +13,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&theme=gotham&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&count_private=true&theme=gotham&show_icons=true)
 
 <br>
