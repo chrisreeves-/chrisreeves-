@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning 🐍
 - 📫 How to reach me:
      - Website: https://chrisreeves.co.nz
      - Email:   chris@reeves.net.nz
+- ⚡ Fun fact: Chocolate fish don't swim and drawing pins don't draw
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&theme=gotham&show_icons=true)
 
