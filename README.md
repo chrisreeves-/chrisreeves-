@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python 🐍
+- 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
 - How to reach me:
      - 🌏 https://chrisreeves.co.nz
      - 📬 chris@reeves.net.nz
      - 🐥 https://twitter.com/chris_reeves_nz
      - 📝 https://www.linkedin.com/in/chrisreevesnz/
      - 📺 https://www.youtube.com/user/humanimalnz
-- 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
 - ⚡ Fun fact: Chocolate fish don't swim and drawing pins don't draw
 
 <br>
