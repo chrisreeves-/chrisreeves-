@@ -15,3 +15,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&theme=gotham&show_icons=true&count_private=true)
 
 <br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
