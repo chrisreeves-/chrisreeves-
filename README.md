@@ -4,11 +4,7 @@
 - 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
 - 📍 Lives in Brisbane, Queensland, Australia
 - How to reach me:
-     - 🌏 https://chrisreeves.co.nz
-     - 📬 chris@reeves.net.nz
-     - 🐥 https://twitter.com/chris_reeves_nz
-     - 📝 https://www.linkedin.com/in/chrisreevesnz/
-     - 📺 https://www.youtube.com/user/humanimalnz
+     - 🔗 https://linktr.ee/chrisreeves
 - ⚡ Fun fact: Chocolate fish don't swim and drawing pins don't draw
 
 <br>
