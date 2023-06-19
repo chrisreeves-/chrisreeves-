@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python 🐍
-- 👔 Octopus Deploy 🐙 as a Security Engineer 🥷🏽
+- 👔 Simply SecOps as the Co-Founder 🥷🏽
 - 📍 Lives in Brisbane, Queensland, Australia
 - How to reach me:
      - 🔗 https://linktr.ee/chrisreeves
