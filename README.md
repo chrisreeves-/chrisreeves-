@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python 🐍
 - 👔 Simply SecOps as the Co-Founder 🥷🏽
+- 🌱 I’m currently learning Python 🐍
 - 📍 Lives in Brisbane, Queensland, Australia
 - How to reach me:
      - 🔗 https://linktr.ee/chrisreeves
