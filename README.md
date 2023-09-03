@@ -15,4 +15,4 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,terraform"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,sql"> </a> </p>
