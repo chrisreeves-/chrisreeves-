@@ -12,3 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&count_private=true&theme=gotham&show_icons=true)
 
 <br>
+
+## Languages I Know:
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,python,github,bash,powershell"> </a> </p>
