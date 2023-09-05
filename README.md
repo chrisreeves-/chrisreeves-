@@ -7,11 +7,10 @@
      - 🔗 https://linktr.ee/chrisreeves
 - ⚡ Fun fact: Chocolate fish don't swim and drawing pins don't draw
 
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&count_private=true&theme=gotham&show_icons=true)
 
-<br>
+  ![stats](https://github-readme-stats.vercel.app/api?username=chrisreeves-&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+  ![graph](https://github-readme-activity-graph.vercel.app/graph?username=chrisreeves-&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
 ## Languages I Know:
 
