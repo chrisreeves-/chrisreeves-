@@ -2,8 +2,8 @@
 
 
 
-- 👔 Simply SecOps as the Co-Founder 🥷🏽
-- 📄 Linkedin Profile: https://www.linkedin.com/in/chrisreeves-/
+- 👔 Nearmap as Security Operations Manager 🥷🏽
+- 📄 Linkedin Profile: https://www.linkedin.com/in/chrisreevesnz/
 - 📍 Lives in Brisbane, Queensland, Australia
 - How to reach me:
      - 🔗 https://linktr.ee/chrisreeves
